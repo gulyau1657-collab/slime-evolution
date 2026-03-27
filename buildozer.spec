@@ -11,6 +11,7 @@ package.domain = org.game
 
 # (str) Source code where the main.py live
 source.dir = .
+source.main = main.py          ← ДОБАВЬТЕ ЭТУ СТРОКУ
 
 # (list) Source files to include (let empty to include all the files)
 source.include_exts = py,png,jpg,kv,atlas,json
