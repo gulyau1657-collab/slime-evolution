@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+.buildozer/
+bin/
+.venv/
+venv/
+*.apk
+*.aab
+saves/*.json
